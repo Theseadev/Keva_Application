@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌈 Keva Application  
+# Keva Application  
 **Mobile Programming Project Assignment**  
 _Muhammad Fahrul Bahri — 230104040057_
 
